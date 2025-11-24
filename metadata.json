@@ -1,0 +1,5 @@
+{
+  "name": "Mobilix - Monitor de Acessibilidade Urbana",
+  "description": "Mobilix é uma aplicação para monitorar o status de escadas rolantes e esteiras em tempo real em várias cidades brasileiras, permitindo que os usuários planejem seus trajetos com mais acessibilidade e reportem falhas.",
+  "requestFramePermissions": []
+}
